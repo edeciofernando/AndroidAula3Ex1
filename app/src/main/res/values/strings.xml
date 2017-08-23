@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Minha Lista de Compras</string>
+    <string name="produto">Produto:</string>
+    <string name="local_da_compra">Local da Compra:</string>
+    <string name="quantidade">Quantidade:</string>
+    <string name="salvar">Salvar</string>
+    <string name="listar">Listar</string>
+    <string-array name="locais">
+        <item>Supermercado BIG</item>
+        <item>Treichel MacroMercado</item>
+        <item>Max Atacado</item>
+        <item>Feira da Dom Joaquim</item>
+    </string-array>
+</resources>
